@@ -1,0 +1,15 @@
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia3\lueJaTulosta\lueJaTulosta\bin\Debug\net6.0\lueJaTulosta.exe
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia3\lueJaTulosta\lueJaTulosta\bin\Debug\net6.0\lueJaTulosta.deps.json
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia3\lueJaTulosta\lueJaTulosta\bin\Debug\net6.0\lueJaTulosta.runtimeconfig.json
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia3\lueJaTulosta\lueJaTulosta\bin\Debug\net6.0\lueJaTulosta.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia3\lueJaTulosta\lueJaTulosta\bin\Debug\net6.0\ref\lueJaTulosta.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia3\lueJaTulosta\lueJaTulosta\bin\Debug\net6.0\lueJaTulosta.pdb
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia3\lueJaTulosta\lueJaTulosta\obj\Debug\net6.0\lueJaTulosta.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia3\lueJaTulosta\lueJaTulosta\obj\Debug\net6.0\lueJaTulosta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia3\lueJaTulosta\lueJaTulosta\obj\Debug\net6.0\lueJaTulosta.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia3\lueJaTulosta\lueJaTulosta\obj\Debug\net6.0\lueJaTulosta.AssemblyInfo.cs
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia3\lueJaTulosta\lueJaTulosta\obj\Debug\net6.0\lueJaTulosta.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia3\lueJaTulosta\lueJaTulosta\obj\Debug\net6.0\lueJaTulosta.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia3\lueJaTulosta\lueJaTulosta\obj\Debug\net6.0\ref\lueJaTulosta.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia3\lueJaTulosta\lueJaTulosta\obj\Debug\net6.0\lueJaTulosta.pdb
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia3\lueJaTulosta\lueJaTulosta\obj\Debug\net6.0\lueJaTulosta.genruntimeconfig.cache

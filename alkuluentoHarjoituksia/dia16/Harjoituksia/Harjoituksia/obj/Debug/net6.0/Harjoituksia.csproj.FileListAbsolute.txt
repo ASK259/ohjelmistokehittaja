@@ -1,0 +1,15 @@
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia16\Harjoituksia\Harjoituksia\bin\Debug\net6.0\Harjoituksia.exe
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia16\Harjoituksia\Harjoituksia\bin\Debug\net6.0\Harjoituksia.deps.json
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia16\Harjoituksia\Harjoituksia\bin\Debug\net6.0\Harjoituksia.runtimeconfig.json
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia16\Harjoituksia\Harjoituksia\bin\Debug\net6.0\Harjoituksia.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia16\Harjoituksia\Harjoituksia\bin\Debug\net6.0\ref\Harjoituksia.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia16\Harjoituksia\Harjoituksia\bin\Debug\net6.0\Harjoituksia.pdb
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia16\Harjoituksia\Harjoituksia\obj\Debug\net6.0\Harjoituksia.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia16\Harjoituksia\Harjoituksia\obj\Debug\net6.0\Harjoituksia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia16\Harjoituksia\Harjoituksia\obj\Debug\net6.0\Harjoituksia.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia16\Harjoituksia\Harjoituksia\obj\Debug\net6.0\Harjoituksia.AssemblyInfo.cs
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia16\Harjoituksia\Harjoituksia\obj\Debug\net6.0\Harjoituksia.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia16\Harjoituksia\Harjoituksia\obj\Debug\net6.0\Harjoituksia.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia16\Harjoituksia\Harjoituksia\obj\Debug\net6.0\ref\Harjoituksia.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia16\Harjoituksia\Harjoituksia\obj\Debug\net6.0\Harjoituksia.pdb
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia16\Harjoituksia\Harjoituksia\obj\Debug\net6.0\Harjoituksia.genruntimeconfig.cache
