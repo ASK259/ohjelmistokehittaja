@@ -1,0 +1,15 @@
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\EkaProjektini\EkaProjektini\bin\Debug\net6.0\EkaProjektini.exe
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\EkaProjektini\EkaProjektini\bin\Debug\net6.0\EkaProjektini.deps.json
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\EkaProjektini\EkaProjektini\bin\Debug\net6.0\EkaProjektini.runtimeconfig.json
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\EkaProjektini\EkaProjektini\bin\Debug\net6.0\EkaProjektini.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\EkaProjektini\EkaProjektini\bin\Debug\net6.0\ref\EkaProjektini.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\EkaProjektini\EkaProjektini\bin\Debug\net6.0\EkaProjektini.pdb
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\EkaProjektini\EkaProjektini\obj\Debug\net6.0\EkaProjektini.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\EkaProjektini\EkaProjektini\obj\Debug\net6.0\EkaProjektini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\EkaProjektini\EkaProjektini\obj\Debug\net6.0\EkaProjektini.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\EkaProjektini\EkaProjektini\obj\Debug\net6.0\EkaProjektini.AssemblyInfo.cs
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\EkaProjektini\EkaProjektini\obj\Debug\net6.0\EkaProjektini.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\EkaProjektini\EkaProjektini\obj\Debug\net6.0\EkaProjektini.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\EkaProjektini\EkaProjektini\obj\Debug\net6.0\ref\EkaProjektini.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\EkaProjektini\EkaProjektini\obj\Debug\net6.0\EkaProjektini.pdb
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\EkaProjektini\EkaProjektini\obj\Debug\net6.0\EkaProjektini.genruntimeconfig.cache

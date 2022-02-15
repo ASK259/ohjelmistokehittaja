@@ -1,0 +1,14 @@
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\OmaNimi\OmaNimi\bin\Debug\net6.0\OmaNimi.exe
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\OmaNimi\OmaNimi\bin\Debug\net6.0\OmaNimi.deps.json
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\OmaNimi\OmaNimi\bin\Debug\net6.0\OmaNimi.runtimeconfig.json
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\OmaNimi\OmaNimi\bin\Debug\net6.0\OmaNimi.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\OmaNimi\OmaNimi\bin\Debug\net6.0\ref\OmaNimi.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\OmaNimi\OmaNimi\bin\Debug\net6.0\OmaNimi.pdb
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\OmaNimi\OmaNimi\obj\Debug\net6.0\OmaNimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\OmaNimi\OmaNimi\obj\Debug\net6.0\OmaNimi.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\OmaNimi\OmaNimi\obj\Debug\net6.0\OmaNimi.AssemblyInfo.cs
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\OmaNimi\OmaNimi\obj\Debug\net6.0\OmaNimi.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\OmaNimi\OmaNimi\obj\Debug\net6.0\OmaNimi.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\OmaNimi\OmaNimi\obj\Debug\net6.0\ref\OmaNimi.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\OmaNimi\OmaNimi\obj\Debug\net6.0\OmaNimi.pdb
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\OmaNimi\OmaNimi\obj\Debug\net6.0\OmaNimi.genruntimeconfig.cache

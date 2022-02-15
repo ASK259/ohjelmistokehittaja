@@ -1,0 +1,15 @@
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\YksiNumerot\YksiNumerot\bin\Debug\net6.0\YksiNumerot.exe
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\YksiNumerot\YksiNumerot\bin\Debug\net6.0\YksiNumerot.deps.json
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\YksiNumerot\YksiNumerot\bin\Debug\net6.0\YksiNumerot.runtimeconfig.json
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\YksiNumerot\YksiNumerot\bin\Debug\net6.0\YksiNumerot.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\YksiNumerot\YksiNumerot\bin\Debug\net6.0\ref\YksiNumerot.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\YksiNumerot\YksiNumerot\bin\Debug\net6.0\YksiNumerot.pdb
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\YksiNumerot\YksiNumerot\obj\Debug\net6.0\YksiNumerot.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\YksiNumerot\YksiNumerot\obj\Debug\net6.0\YksiNumerot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\YksiNumerot\YksiNumerot\obj\Debug\net6.0\YksiNumerot.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\YksiNumerot\YksiNumerot\obj\Debug\net6.0\YksiNumerot.AssemblyInfo.cs
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\YksiNumerot\YksiNumerot\obj\Debug\net6.0\YksiNumerot.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\YksiNumerot\YksiNumerot\obj\Debug\net6.0\YksiNumerot.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\YksiNumerot\YksiNumerot\obj\Debug\net6.0\ref\YksiNumerot.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\YksiNumerot\YksiNumerot\obj\Debug\net6.0\YksiNumerot.pdb
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\YksiNumerot\YksiNumerot\obj\Debug\net6.0\YksiNumerot.genruntimeconfig.cache
