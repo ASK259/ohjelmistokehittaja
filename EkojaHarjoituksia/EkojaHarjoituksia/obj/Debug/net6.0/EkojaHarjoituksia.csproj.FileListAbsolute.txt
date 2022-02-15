@@ -1,0 +1,15 @@
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\EkojaHarjoituksia\EkojaHarjoituksia\bin\Debug\net6.0\EkojaHarjoituksia.exe
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\EkojaHarjoituksia\EkojaHarjoituksia\bin\Debug\net6.0\EkojaHarjoituksia.deps.json
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\EkojaHarjoituksia\EkojaHarjoituksia\bin\Debug\net6.0\EkojaHarjoituksia.runtimeconfig.json
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\EkojaHarjoituksia\EkojaHarjoituksia\bin\Debug\net6.0\EkojaHarjoituksia.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\EkojaHarjoituksia\EkojaHarjoituksia\bin\Debug\net6.0\ref\EkojaHarjoituksia.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\EkojaHarjoituksia\EkojaHarjoituksia\bin\Debug\net6.0\EkojaHarjoituksia.pdb
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\EkojaHarjoituksia\EkojaHarjoituksia\obj\Debug\net6.0\EkojaHarjoituksia.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\EkojaHarjoituksia\EkojaHarjoituksia\obj\Debug\net6.0\EkojaHarjoituksia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\EkojaHarjoituksia\EkojaHarjoituksia\obj\Debug\net6.0\EkojaHarjoituksia.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\EkojaHarjoituksia\EkojaHarjoituksia\obj\Debug\net6.0\EkojaHarjoituksia.AssemblyInfo.cs
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\EkojaHarjoituksia\EkojaHarjoituksia\obj\Debug\net6.0\EkojaHarjoituksia.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\EkojaHarjoituksia\EkojaHarjoituksia\obj\Debug\net6.0\EkojaHarjoituksia.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\EkojaHarjoituksia\EkojaHarjoituksia\obj\Debug\net6.0\ref\EkojaHarjoituksia.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\EkojaHarjoituksia\EkojaHarjoituksia\obj\Debug\net6.0\EkojaHarjoituksia.pdb
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\EkojaHarjoituksia\EkojaHarjoituksia\obj\Debug\net6.0\EkojaHarjoituksia.genruntimeconfig.cache
