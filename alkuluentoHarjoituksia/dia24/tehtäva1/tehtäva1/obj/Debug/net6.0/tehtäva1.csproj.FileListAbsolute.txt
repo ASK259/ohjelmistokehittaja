@@ -1,0 +1,15 @@
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtäva1\tehtäva1\bin\Debug\net6.0\tehtäva1.exe
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtäva1\tehtäva1\bin\Debug\net6.0\tehtäva1.deps.json
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtäva1\tehtäva1\bin\Debug\net6.0\tehtäva1.runtimeconfig.json
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtäva1\tehtäva1\bin\Debug\net6.0\tehtäva1.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtäva1\tehtäva1\bin\Debug\net6.0\ref\tehtäva1.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtäva1\tehtäva1\bin\Debug\net6.0\tehtäva1.pdb
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtäva1\tehtäva1\obj\Debug\net6.0\tehtäva1.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtäva1\tehtäva1\obj\Debug\net6.0\tehtäva1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtäva1\tehtäva1\obj\Debug\net6.0\tehtäva1.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtäva1\tehtäva1\obj\Debug\net6.0\tehtäva1.AssemblyInfo.cs
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtäva1\tehtäva1\obj\Debug\net6.0\tehtäva1.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtäva1\tehtäva1\obj\Debug\net6.0\tehtäva1.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtäva1\tehtäva1\obj\Debug\net6.0\ref\tehtäva1.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtäva1\tehtäva1\obj\Debug\net6.0\tehtäva1.pdb
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtäva1\tehtäva1\obj\Debug\net6.0\tehtäva1.genruntimeconfig.cache

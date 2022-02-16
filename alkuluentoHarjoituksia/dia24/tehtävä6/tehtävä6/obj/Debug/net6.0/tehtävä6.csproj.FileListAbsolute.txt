@@ -1,0 +1,15 @@
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtävä6\tehtävä6\bin\Debug\net6.0\tehtävä6.exe
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtävä6\tehtävä6\bin\Debug\net6.0\tehtävä6.deps.json
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtävä6\tehtävä6\bin\Debug\net6.0\tehtävä6.runtimeconfig.json
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtävä6\tehtävä6\bin\Debug\net6.0\tehtävä6.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtävä6\tehtävä6\bin\Debug\net6.0\ref\tehtävä6.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtävä6\tehtävä6\bin\Debug\net6.0\tehtävä6.pdb
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtävä6\tehtävä6\obj\Debug\net6.0\tehtävä6.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtävä6\tehtävä6\obj\Debug\net6.0\tehtävä6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtävä6\tehtävä6\obj\Debug\net6.0\tehtävä6.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtävä6\tehtävä6\obj\Debug\net6.0\tehtävä6.AssemblyInfo.cs
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtävä6\tehtävä6\obj\Debug\net6.0\tehtävä6.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtävä6\tehtävä6\obj\Debug\net6.0\tehtävä6.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtävä6\tehtävä6\obj\Debug\net6.0\ref\tehtävä6.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtävä6\tehtävä6\obj\Debug\net6.0\tehtävä6.pdb
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtävä6\tehtävä6\obj\Debug\net6.0\tehtävä6.genruntimeconfig.cache
