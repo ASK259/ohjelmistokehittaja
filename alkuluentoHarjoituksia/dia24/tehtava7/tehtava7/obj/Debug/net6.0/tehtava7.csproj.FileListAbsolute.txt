@@ -1,0 +1,15 @@
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtava7\tehtava7\bin\Debug\net6.0\tehtava7.exe
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtava7\tehtava7\bin\Debug\net6.0\tehtava7.deps.json
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtava7\tehtava7\bin\Debug\net6.0\tehtava7.runtimeconfig.json
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtava7\tehtava7\bin\Debug\net6.0\tehtava7.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtava7\tehtava7\bin\Debug\net6.0\ref\tehtava7.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtava7\tehtava7\bin\Debug\net6.0\tehtava7.pdb
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtava7\tehtava7\obj\Debug\net6.0\tehtava7.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtava7\tehtava7\obj\Debug\net6.0\tehtava7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtava7\tehtava7\obj\Debug\net6.0\tehtava7.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtava7\tehtava7\obj\Debug\net6.0\tehtava7.AssemblyInfo.cs
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtava7\tehtava7\obj\Debug\net6.0\tehtava7.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtava7\tehtava7\obj\Debug\net6.0\tehtava7.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtava7\tehtava7\obj\Debug\net6.0\ref\tehtava7.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtava7\tehtava7\obj\Debug\net6.0\tehtava7.pdb
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia24\tehtava7\tehtava7\obj\Debug\net6.0\tehtava7.genruntimeconfig.cache
