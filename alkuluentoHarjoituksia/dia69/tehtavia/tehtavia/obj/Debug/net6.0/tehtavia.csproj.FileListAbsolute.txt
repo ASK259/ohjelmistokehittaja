@@ -1,0 +1,15 @@
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia69\tehtavia\tehtavia\bin\Debug\net6.0\tehtavia.exe
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia69\tehtavia\tehtavia\bin\Debug\net6.0\tehtavia.deps.json
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia69\tehtavia\tehtavia\bin\Debug\net6.0\tehtavia.runtimeconfig.json
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia69\tehtavia\tehtavia\bin\Debug\net6.0\tehtavia.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia69\tehtavia\tehtavia\bin\Debug\net6.0\tehtavia.pdb
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia69\tehtavia\tehtavia\obj\Debug\net6.0\tehtavia.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia69\tehtavia\tehtavia\obj\Debug\net6.0\tehtavia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia69\tehtavia\tehtavia\obj\Debug\net6.0\tehtavia.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia69\tehtavia\tehtavia\obj\Debug\net6.0\tehtavia.AssemblyInfo.cs
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia69\tehtavia\tehtavia\obj\Debug\net6.0\tehtavia.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia69\tehtavia\tehtavia\obj\Debug\net6.0\tehtavia.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia69\tehtavia\tehtavia\obj\Debug\net6.0\refint\tehtavia.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia69\tehtavia\tehtavia\obj\Debug\net6.0\tehtavia.pdb
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia69\tehtavia\tehtavia\obj\Debug\net6.0\tehtavia.genruntimeconfig.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\dia69\tehtavia\tehtavia\obj\Debug\net6.0\ref\tehtavia.dll

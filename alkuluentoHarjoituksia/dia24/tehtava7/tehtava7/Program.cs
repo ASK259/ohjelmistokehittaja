@@ -1,17 +1,16 @@
 ﻿using System;
-
+/// @ author Antti Kuusisto
+/// version 21.2.2022
+/// <summary>
+/// Harjoitus. Kirjoitettu  16.2. / 17.2. Kommentoitu 21.2. Tässä ei try -> catch. Monimutkainen ja TODELLA paljon koodirivejä, mutta toimii ja käyttää metodeita.
+/// Voisi olla paljon pienemmällä rivimäärällä. Tämä on tälläinen rivihirviö, koska oli hieman hankaluuksia keksiä ratkaisua ns. tiukkojen tyyppimäärityksien takia.    
+/// </summary>
 namespace Tehtava7
 {
     class Program
     {
         static void Main()
         {
-            /*var (a, b) = GetMultipleValue();
-            Tuple<int, int> tuple = GetMultipleValue();
-            public static Tuple<int, int> GetMultipleValue()
-            {
-                return Tuple.Create(1, 2);
-            }*/
             static string alleKaky(string alKa)
             {
                 char[] arr;
@@ -51,7 +50,7 @@ namespace Tehtava7
                 }
 
                 return alKa;
-            }
+            } // metodi, joka määrittää välin 10 - 19
             static string alleSata(string alSa)
             {
                 char[] arr;
@@ -509,7 +508,7 @@ namespace Tehtava7
                     }
                 }
                 return alSa;
-            }
+            } // metodi, joka määrittää välin 20 - 99
             static string alleTuhat(string alTu)
             {
                 char[] arr;
@@ -5436,32 +5435,32 @@ namespace Tehtava7
 
                 }
                 return alTu;
-            }
-            Console.WriteLine("Kirjoita luku se tulostetaan kirjoitettuna.");
-            tahan:
-            Console.Write("Syötä luku(0-999): ");
+            } // metodi joka määrittää välin 100 - 999. Tämän ainakin voisi kirjoittaa uusiksi
+            Console.WriteLine("Kirjoita luku se tulostetaan kirjoitettuna."); // toimintaohje käyttäjälle
+            tahan: // goto paluukohta
+            Console.Write("Syötä luku(0-999): "); // kysytään lukua
             string lul;
             lul = Console.ReadLine();
             if(lul.Length < 2)
             {
                 string tul = alleKymmenen(lul);
                 Console.WriteLine("test2");
-            }
+            } // määrittely onko luku ykkösiä
             else if (lul.Length < 3)
             {
                 string tul2 = alleSata(lul);
                 Console.WriteLine("{0}", tul2);
-            }
+            } // määrittely onko luku kymmeniä
             else if (lul.Length < 4)
             {
                 string tul3 = alleTuhat(lul);
                 Console.WriteLine("{0}", tul3);
-            }
+            } // määrittely onko luku vai satoja
             else
             {
                 Console.WriteLine("Annettu väärän kokoinen luku!");
                 goto tahan;
-            }
+            } // virhe mikäli liian pitkä tai lyhyt arvo
             static string alleKymmenen(string alKy)
             {
                 switch (alKy)
@@ -5498,7 +5497,7 @@ namespace Tehtava7
                         break;
                 }
                 return alKy;
-            }
+            } // metodi, joka määrittää "ykköset"
         }
     }
 }

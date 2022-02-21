@@ -1,4 +1,9 @@
 ﻿using System;
+/// @ author Antti Kuusisto
+/// version 21.2.2022
+/// <summary>
+/// Harjoitus. Kirjoitettu alunperin 15.2 tai 16.2. Kommentoitu 21.2. Tästä syystä ei try -> catch ilmausta.
+/// </summary>
 
 namespace Tehtava3
 {
@@ -6,11 +11,11 @@ namespace Tehtava3
     {
         static void Main()
         {
-            Console.WriteLine("Syötä luku väliltä 0-9 ja se tulostetaan tekstinä.");
-            tahan:
-            Console.Write("Syötä luku: ");
+            Console.WriteLine("Syötä luku väliltä 0-9 ja se tulostetaan tekstinä."); // toimintaohje käyttäjälle
+            tahan: // goto paluu kohta
+            Console.Write("Syötä luku: "); // kysytään lukua
             int lu = int.Parse(Console.ReadLine());
-            switch (lu)
+            switch (lu) // luvun tarkastelu switch:llä
             {
                 case 0:
                     Console.WriteLine("nolla");
@@ -42,9 +47,9 @@ namespace Tehtava3
                 case 9:
                     Console.WriteLine("yhdeksän");
                     break;
-                default:
+                default: // mikäli luku alueen ulkopuolella
                     Console.WriteLine("Syötetty luku alueen ulkopuolella");
-                    goto tahan;
+                    goto tahan; // paluu alkuun
                     break;
             }
         }
