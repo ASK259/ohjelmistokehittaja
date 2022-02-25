@@ -1,6 +1,6 @@
 ﻿using System;
 /// @ author Antti Kuusisto 
-/// version 21.2.2022
+/// version 25.2.2022
 /// <summary>
 /// Harjoitus. Osittain tehty.
 /// </summary>
@@ -181,30 +181,62 @@ namespace Tehtavia
                 Console.WriteLine("Syötä lause ja siitä tulostetaan pisin sana");
                 Console.Write("Syötä lause: ");
                 la = Console.ReadLine();
-                string [] sa = la.Split(' ');
-                int [] pi = new int[sa.Length];
-                for (int i = 0; i < sa.Length; i++)
+                /*int laPi = la.Length;
+                string[] sa = new string[] { la.Split(" ") };
+                //sa = la.Split(" ");
+                string [] laSa = new string[sa.Length];
+                int [] saPi = new int[laSa.Length];
+                /*for (int i = 0; i < laSa.Length; i++)
                 {
-                    
+                    Console.WriteLine("{0}", laSa);
+                }*/
+                string[] sa = la.Split(new[] { " " }, StringSplitOptions.None); // sana Array:si. Tätä ei saanut toimimaan ilman esimerkin etsimistä
+                string sa1 = "";
+                int saPi = 0;
+                foreach (String s in sa)
+                {
+                   if (s.Length > saPi)
+                    {
+                        sa1 = s;
+                        saPi = s.Length;
+                    }
+
                 }
-            }   // metodi tehtävälle 15
+                Console.WriteLine(sa1);
+
+            }   // metodi tehtävälle 15 tehty
             static void PaLu(int lu1, int lu2)
             {
-                for(int i = lu1; i < lu2; i++)
-                {   
-
-
-                    int apu = i %= 2;
-                    if (apu == 0)
+                int[] par = Enumerable.Range(lu1, lu2).ToArray();   // käydään Array läpi luku kerrallaan
+                foreach (int i in par)  // käydään Array läpi luku kerrallaan
+                {
+                    int lu = i; // luku muuttujaan
+                    int va = lu %= 2;   // luvun jakojäännöksen laskeminen
+                    if ( va != 0) // katsotaan onko jakojäännös muu, kuin nolla
                     {
-                        Console.Write(lu1);
+                        Console.WriteLine("{0}", i);    // tulostetaan luku
                     }
+
+                    
                 }
-            }   // metodi tehtävälle 16
+
+            }   // metodi tehtävälle 16 tehty
             static void VaLu(int lu1, int lu2)
             {
+                int[] par = Enumerable.Range(lu1, lu2).ToArray();   // Array luvuista 1-99
+                foreach (int i in par)  // käydään Array läpi luku kerrallaan
+                {
+                    int lu = i; // luku muuttujaan
+                    int va = lu %= 3;   // luvun jakojäännöksen laskeminen
+                    if (va == 0)    // katsotaan onko jakojäännös nolla
+                    {
+                        Console.WriteLine("{0}", i);    // tulostetaan luku
+                    }
 
-            }   // metodi tehtävälle 17
+
+                }
+            }   // metodi tehtävälle 17 tehty
+            
         }   
     }
 }
