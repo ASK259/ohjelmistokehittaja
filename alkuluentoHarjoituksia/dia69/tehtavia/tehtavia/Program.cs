@@ -1,8 +1,8 @@
 ﻿using System;
 /// @ author Antti Kuusisto 
-/// version 25.2.2022
+/// version 27.2.2022
 /// <summary>
-/// Harjoitus. Osittain tehty.
+/// Harjoitus. Tehty.
 /// </summary>
 namespace Tehtavia
 {
@@ -59,7 +59,7 @@ namespace Tehtavia
                     Console.WriteLine("Et antanut lukua väliltä 1-7!"); // virheviesti
                     goto alku; // paluu alkuun
             } // katsotaan onko luvulle ohjelmaa
-            static void IkaVi()
+            static void IkaVi() // metodi tehtävälle 11. Tehty
             {
                 alku1: // goto paluukohta
                 string klu;
@@ -78,7 +78,7 @@ namespace Tehtavia
                     goto alku1; // paluu metodin alkuun
                 }
                 Console.WriteLine("{0} - näytät ikäistäsi nuoremmalta.", lu);
-            }   // metodi tehtävälle 11 tehty
+            }   // metodi tehtävälle 11. Tehty
             static void TuLu()
             {
                 alku2:
@@ -86,7 +86,7 @@ namespace Tehtavia
                 int lu;
                 Console.WriteLine("Syötä luku joka on yli kymmenen(10) ja se tulostetaan lukumääränsäverran kertoja.");
                 Console.Write("Anna luku: ");
-                klu = Console.ReadLine();
+                klu = Console.ReadLine();   // metodi tehtävälle 12. Tehty
                 try
                 {
                     lu = int.Parse (klu);
@@ -100,22 +100,21 @@ namespace Tehtavia
                 {
                     Console.WriteLine("Luku on alle kymmenen(10)!");
                     goto alku2;
-                    /*
-                     tavoite 13 13 13
-                             131313   
-                     */
+                    
                 }
                 else
                 {
-                    int ek, to;
-                    string ri1, ri2;
-                    for (int i = 0; i < lu; i++)
+                    int ma = lu;    // muuttuja array:n pituudeksi
+                    int[] arr1 = new int[ma];   // array:n luonti
+                    Array.Fill(arr1, lu);   // array:n täyttö luvulla
+                    for (int i = 0; i < arr1.Length; i++)   // for silmukka tulostusta varten
                     {
-                        Console.Write(lu);
+                        Console.WriteLine(String.Join(" ", arr1));  // ensimmäinen rivi
+                        Console.WriteLine(String.Join("", arr1));   // toinen rivi
                     }
                 }
 
-            }   // metodi tehtävälle 12
+            }   // metodi tehtävälle 12. Tehty
             static void EkVk()
             {
                 alku3: //goto paluukohta
@@ -141,8 +140,8 @@ namespace Tehtavia
                     Console.WriteLine("Sanassa pitää olla vähintään kaksi(2) kirjainta.");
                     goto alku3; // paluu metodin alkuun
                 }
-            }   // metodi tehtävälle 13 tehty
-            static void LuVi()
+            }   // metodi tehtävälle 13. Tehty
+            static void LuVi()  // metodi tehtävälle 14. Tehty
             {
             alku4: // goto paluukohta
                 string klu1, klu2;
@@ -174,38 +173,29 @@ namespace Tehtavia
                 {
                     Console.WriteLine("Toinen on positiivinen ja toinen on negatiivinen."); // vataus
                 }
-            }  // metodi tehtävälle 14 tehty
-            static void PiSa()
+            }  // metodi tehtävälle 14. Tehty
+            static void PiSa()  // metodi tehtävälle 15. Tehty. Voisi hioa vielä paremmaksi
             {
                 string la;
-                Console.WriteLine("Syötä lause ja siitä tulostetaan pisin sana");
-                Console.Write("Syötä lause: ");
+                Console.WriteLine("Syötä lause ja siitä tulostetaan pisin sana");   // ohje käyttäjälle
+                Console.Write("Syötä lause: "); // pyydetään lause
                 la = Console.ReadLine();
-                /*int laPi = la.Length;
-                string[] sa = new string[] { la.Split(" ") };
-                //sa = la.Split(" ");
-                string [] laSa = new string[sa.Length];
-                int [] saPi = new int[laSa.Length];
-                /*for (int i = 0; i < laSa.Length; i++)
+                string[] sa = la.Split(new[] { " " }, StringSplitOptions.None); // lause sanoiksi ja array:ksi
+                string sa1 = "";    // muuttuja sanalle, kun sen pituutta tarkastetaan
+                int saPi = 0;   // muuttuja sananpituudelle
+                foreach (String s in sa)    // käydään array läpi foreach - silmukalla
                 {
-                    Console.WriteLine("{0}", laSa);
-                }*/
-                string[] sa = la.Split(new[] { " " }, StringSplitOptions.None); // sana Array:si. Tätä ei saanut toimimaan ilman esimerkin etsimistä
-                string sa1 = "";
-                int saPi = 0;
-                foreach (String s in sa)
-                {
-                   if (s.Length > saPi)
+                   if (s.Length > saPi) // selvitetään sanan pituus
                     {
-                        sa1 = s;
-                        saPi = s.Length;
+                        sa1 = s;    // sana joka oetaan array:sta
+                        saPi = s.Length;    // sanan pituus
                     }
 
                 }
-                Console.WriteLine(sa1);
+                Console.WriteLine(sa1); //tulostetaan pisin sana 
 
-            }   // metodi tehtävälle 15 tehty
-            static void PaLu(int lu1, int lu2)
+            }   // metodi tehtävälle 15. Tehty. Voisi hioa vielä paremmaksi
+            static void PaLu(int lu1, int lu2)  // metodi tehtävälle 16. Tehty
             {
                 int[] par = Enumerable.Range(lu1, lu2).ToArray();   // käydään Array läpi luku kerrallaan
                 foreach (int i in par)  // käydään Array läpi luku kerrallaan
@@ -220,8 +210,8 @@ namespace Tehtavia
                     
                 }
 
-            }   // metodi tehtävälle 16 tehty
-            static void VaLu(int lu1, int lu2)
+            }   // metodi tehtävälle 16. Tehty
+            static void VaLu(int lu1, int lu2)  // metodi tehtävälle 17. Tehty
             {
                 int[] par = Enumerable.Range(lu1, lu2).ToArray();   // Array luvuista 1-99
                 foreach (int i in par)  // käydään Array läpi luku kerrallaan
@@ -235,8 +225,8 @@ namespace Tehtavia
 
 
                 }
-            }   // metodi tehtävälle 17 tehty
-            
+            }   // metodi tehtävälle 17. Tehty
+
         }   
     }
 }
