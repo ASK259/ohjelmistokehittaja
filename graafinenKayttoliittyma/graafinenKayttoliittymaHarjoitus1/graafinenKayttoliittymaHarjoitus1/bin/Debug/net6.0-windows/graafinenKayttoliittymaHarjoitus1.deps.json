@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "graafinenKayttoliittymaHarjoitus1/1.0.0": {
+        "runtime": {
+          "graafinenKayttoliittymaHarjoitus1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "graafinenKayttoliittymaHarjoitus1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
