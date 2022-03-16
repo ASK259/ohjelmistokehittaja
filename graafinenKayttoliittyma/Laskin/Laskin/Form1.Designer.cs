@@ -96,6 +96,7 @@
             this.LaskeBT.TabIndex = 5;
             this.LaskeBT.Text = "Laske";
             this.LaskeBT.UseVisualStyleBackColor = true;
+            this.LaskeBT.Click += new System.EventHandler(this.LaskeBT_Click);
             // 
             // Nelilaskin
             // 

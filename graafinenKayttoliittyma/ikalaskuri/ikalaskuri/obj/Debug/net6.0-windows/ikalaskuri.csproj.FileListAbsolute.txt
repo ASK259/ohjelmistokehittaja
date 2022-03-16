@@ -1,0 +1,17 @@
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\ikalaskuri\ikalaskuri\bin\Debug\net6.0-windows\ikalaskuri.exe
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\ikalaskuri\ikalaskuri\bin\Debug\net6.0-windows\ikalaskuri.deps.json
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\ikalaskuri\ikalaskuri\bin\Debug\net6.0-windows\ikalaskuri.runtimeconfig.json
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\ikalaskuri\ikalaskuri\bin\Debug\net6.0-windows\ikalaskuri.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\ikalaskuri\ikalaskuri\bin\Debug\net6.0-windows\ikalaskuri.pdb
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\ikalaskuri\ikalaskuri\obj\Debug\net6.0-windows\ikalaskuri.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\ikalaskuri\ikalaskuri\obj\Debug\net6.0-windows\ikalaskuri.Form1.resources
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\ikalaskuri\ikalaskuri\obj\Debug\net6.0-windows\ikalaskuri.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\ikalaskuri\ikalaskuri\obj\Debug\net6.0-windows\ikalaskuri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\ikalaskuri\ikalaskuri\obj\Debug\net6.0-windows\ikalaskuri.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\ikalaskuri\ikalaskuri\obj\Debug\net6.0-windows\ikalaskuri.AssemblyInfo.cs
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\ikalaskuri\ikalaskuri\obj\Debug\net6.0-windows\ikalaskuri.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\ikalaskuri\ikalaskuri\obj\Debug\net6.0-windows\ikalaskuri.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\ikalaskuri\ikalaskuri\obj\Debug\net6.0-windows\refint\ikalaskuri.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\ikalaskuri\ikalaskuri\obj\Debug\net6.0-windows\ikalaskuri.pdb
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\ikalaskuri\ikalaskuri\obj\Debug\net6.0-windows\ikalaskuri.genruntimeconfig.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\ikalaskuri\ikalaskuri\obj\Debug\net6.0-windows\ref\ikalaskuri.dll

@@ -1,0 +1,17 @@
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Laskin\Laskin\bin\Debug\net6.0-windows\Laskin.exe
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Laskin\Laskin\bin\Debug\net6.0-windows\Laskin.deps.json
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Laskin\Laskin\bin\Debug\net6.0-windows\Laskin.runtimeconfig.json
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Laskin\Laskin\bin\Debug\net6.0-windows\Laskin.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Laskin\Laskin\bin\Debug\net6.0-windows\Laskin.pdb
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Laskin\Laskin\obj\Debug\net6.0-windows\Laskin.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Laskin\Laskin\obj\Debug\net6.0-windows\Laskin.Nelilaskin.resources
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Laskin\Laskin\obj\Debug\net6.0-windows\Laskin.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Laskin\Laskin\obj\Debug\net6.0-windows\Laskin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Laskin\Laskin\obj\Debug\net6.0-windows\Laskin.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Laskin\Laskin\obj\Debug\net6.0-windows\Laskin.AssemblyInfo.cs
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Laskin\Laskin\obj\Debug\net6.0-windows\Laskin.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Laskin\Laskin\obj\Debug\net6.0-windows\Laskin.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Laskin\Laskin\obj\Debug\net6.0-windows\refint\Laskin.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Laskin\Laskin\obj\Debug\net6.0-windows\Laskin.pdb
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Laskin\Laskin\obj\Debug\net6.0-windows\Laskin.genruntimeconfig.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Laskin\Laskin\obj\Debug\net6.0-windows\ref\Laskin.dll

@@ -1,0 +1,15 @@
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\testausEsimerkki\Pankki\Pankki\bin\Debug\net6.0\Pankki.exe
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\testausEsimerkki\Pankki\Pankki\bin\Debug\net6.0\Pankki.deps.json
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\testausEsimerkki\Pankki\Pankki\bin\Debug\net6.0\Pankki.runtimeconfig.json
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\testausEsimerkki\Pankki\Pankki\bin\Debug\net6.0\Pankki.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\testausEsimerkki\Pankki\Pankki\bin\Debug\net6.0\Pankki.pdb
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\testausEsimerkki\Pankki\Pankki\obj\Debug\net6.0\Pankki.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\testausEsimerkki\Pankki\Pankki\obj\Debug\net6.0\Pankki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\testausEsimerkki\Pankki\Pankki\obj\Debug\net6.0\Pankki.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\testausEsimerkki\Pankki\Pankki\obj\Debug\net6.0\Pankki.AssemblyInfo.cs
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\testausEsimerkki\Pankki\Pankki\obj\Debug\net6.0\Pankki.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\testausEsimerkki\Pankki\Pankki\obj\Debug\net6.0\Pankki.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\testausEsimerkki\Pankki\Pankki\obj\Debug\net6.0\refint\Pankki.dll
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\testausEsimerkki\Pankki\Pankki\obj\Debug\net6.0\Pankki.pdb
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\testausEsimerkki\Pankki\Pankki\obj\Debug\net6.0\Pankki.genruntimeconfig.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\testausEsimerkki\Pankki\Pankki\obj\Debug\net6.0\ref\Pankki.dll
