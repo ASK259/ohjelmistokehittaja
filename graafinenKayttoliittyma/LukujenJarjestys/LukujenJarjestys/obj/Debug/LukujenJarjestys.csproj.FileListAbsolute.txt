@@ -9,3 +9,14 @@ C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituks
 C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\testausEsimerkki\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.csproj.CoreCompileInputs.cache
 C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\testausEsimerkki\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.exe
 C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\testausEsimerkki\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.pdb
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\LukujenJarjestys\LukujenJarjestys\bin\Debug\LukujenJarjestys.exe.config
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\LukujenJarjestys\LukujenJarjestys\bin\Debug\LukujenJarjestys.exe
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\LukujenJarjestys\LukujenJarjestys\bin\Debug\LukujenJarjestys.pdb
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.LukujenJarjestys.resources
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.Properties.Resources.resources
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.exe
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\LukujenJarjestys\LukujenJarjestys\obj\Debug\LukujenJarjestys.pdb

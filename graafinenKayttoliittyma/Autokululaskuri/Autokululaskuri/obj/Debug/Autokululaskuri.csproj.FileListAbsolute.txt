@@ -9,3 +9,14 @@ C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituks
 C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\testausEsimerkki\Autokululaskuri\Autokululaskuri\obj\Debug\Autokululaskuri.csproj.CoreCompileInputs.cache
 C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\testausEsimerkki\Autokululaskuri\Autokululaskuri\obj\Debug\Autokululaskuri.exe
 C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\alkuluentoHarjoituksia\testausEsimerkki\Autokululaskuri\Autokululaskuri\obj\Debug\Autokululaskuri.pdb
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Autokululaskuri\Autokululaskuri\bin\Debug\Autokululaskuri.exe.config
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Autokululaskuri\Autokululaskuri\bin\Debug\Autokululaskuri.exe
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Autokululaskuri\Autokululaskuri\bin\Debug\Autokululaskuri.pdb
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Autokululaskuri\Autokululaskuri\obj\Debug\Autokululaskuri.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Autokululaskuri\Autokululaskuri\obj\Debug\Autokululaskuri.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Autokululaskuri\Autokululaskuri\obj\Debug\Autokululaskuri.AutonkuluLaskuri.resources
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Autokululaskuri\Autokululaskuri\obj\Debug\Autokululaskuri.Properties.Resources.resources
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Autokululaskuri\Autokululaskuri\obj\Debug\Autokululaskuri.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Autokululaskuri\Autokululaskuri\obj\Debug\Autokululaskuri.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Autokululaskuri\Autokululaskuri\obj\Debug\Autokululaskuri.exe
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Autokululaskuri\Autokululaskuri\obj\Debug\Autokululaskuri.pdb

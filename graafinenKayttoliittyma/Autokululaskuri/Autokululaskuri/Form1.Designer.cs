@@ -136,9 +136,9 @@
             this.KilometritLB.Location = new System.Drawing.Point(623, 249);
             this.KilometritLB.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.KilometritLB.Name = "KilometritLB";
-            this.KilometritLB.Size = new System.Drawing.Size(180, 26);
+            this.KilometritLB.Size = new System.Drawing.Size(179, 26);
             this.KilometritLB.TabIndex = 8;
-            this.KilometritLB.Text = "KIlometrit / vuosi:";
+            this.KilometritLB.Text = "Kilometrit / vuosi:";
             // 
             // KulutLB
             // 
@@ -235,6 +235,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(13F, 26F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.Teal;
             this.ClientSize = new System.Drawing.Size(1129, 551);
             this.Controls.Add(this.KilometritCB);
             this.Controls.Add(this.RenkaatTB);
@@ -256,6 +257,7 @@
             this.Controls.Add(this.LisatnestLB);
             this.Controls.Add(this.LainalyhLB);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ForeColor = System.Drawing.Color.Snow;
             this.Margin = new System.Windows.Forms.Padding(5);
             this.Name = "AutonkuluLaskuri";
             this.Text = "Kilometrikustannuslaskuri";
