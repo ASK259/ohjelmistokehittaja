@@ -1,0 +1,26 @@
+body, html, main {
+  height: 100%;
+  margin: 0;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 1vw;
+  color: white;
+  background: #191970;
+}
+
+h1 {
+  text-align: center;
+}
+
+#tek {
+  margin: 5% 0 0 25%;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  margin: 0 0 0 32%;
+}
+
+a {
+  color: white;
+}

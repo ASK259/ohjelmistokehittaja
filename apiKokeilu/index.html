@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="fi">
+  <head>
+    <meta charset="utf-8">
+    <title>Sääennuste API:lla</title>
+    <link rel="stylesheet" href="tyyli.css">
+    <script src="koodi.js" charset="utf-8"></script>
+    <meta name="author" content="Antti Kuusisto">
+    <meta name="description" content="Sääennuste">
+  </head>
+  <body>
+    <h1>Katso sääennuste haluamastasi paikasta</h1>
+    <article id="tek">
+    <p>Syötä paikannimi, josta haluat katsoa sääennusteen</p><br>
+    <input type="text" name="" id="paikka">
+    <button type="button" name="button" onclick="saa()">Hae</button>
+    <h2>Tänään</h2>
+    <p id="ti1"></p>
+    <p id="ku"></p>
+    <h3>Huomenna</h3>
+    <p id="se"></p>
+    <p id="seKu"></p>
+    <h3>Ylihuomenna</h3>
+    <p id="se1"></p>
+    <p id="seKu1"></p>
+    </article>
+    <footer>
+    <a href="https://weatherdbi.herokuapp.com/">Täältä on API, jota sivu käyttää(https://weatherdbi.herokuapp.com).</a>
+    </footer>
+  </body>
+</html>
