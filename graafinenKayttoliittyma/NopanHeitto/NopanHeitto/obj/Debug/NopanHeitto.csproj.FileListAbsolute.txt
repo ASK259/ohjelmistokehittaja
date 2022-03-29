@@ -1,0 +1,11 @@
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\NopanHeitto\NopanHeitto\bin\Debug\NopanHeitto.exe.config
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\NopanHeitto\NopanHeitto\bin\Debug\NopanHeitto.exe
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\NopanHeitto\NopanHeitto\bin\Debug\NopanHeitto.pdb
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\NopanHeitto\NopanHeitto\obj\Debug\NopanHeitto.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\NopanHeitto\NopanHeitto\obj\Debug\NopanHeitto.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\NopanHeitto\NopanHeitto\obj\Debug\NopanHeitto.NopanHeitto.resources
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\NopanHeitto\NopanHeitto\obj\Debug\NopanHeitto.Properties.Resources.resources
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\NopanHeitto\NopanHeitto\obj\Debug\NopanHeitto.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\NopanHeitto\NopanHeitto\obj\Debug\NopanHeitto.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\NopanHeitto\NopanHeitto\obj\Debug\NopanHeitto.exe
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\NopanHeitto\NopanHeitto\obj\Debug\NopanHeitto.pdb

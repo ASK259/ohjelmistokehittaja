@@ -1,0 +1,11 @@
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Suosikkinimet\Suosikkinimet\bin\Debug\Suosikkinimet.exe.config
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Suosikkinimet\Suosikkinimet\bin\Debug\Suosikkinimet.exe
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Suosikkinimet\Suosikkinimet\bin\Debug\Suosikkinimet.pdb
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Suosikkinimet\Suosikkinimet\obj\Debug\Suosikkinimet.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Suosikkinimet\Suosikkinimet\obj\Debug\Suosikkinimet.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Suosikkinimet\Suosikkinimet\obj\Debug\Suosikkinimet.NimiForm.resources
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Suosikkinimet\Suosikkinimet\obj\Debug\Suosikkinimet.Properties.Resources.resources
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Suosikkinimet\Suosikkinimet\obj\Debug\Suosikkinimet.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Suosikkinimet\Suosikkinimet\obj\Debug\Suosikkinimet.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Suosikkinimet\Suosikkinimet\obj\Debug\Suosikkinimet.exe
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Suosikkinimet\Suosikkinimet\obj\Debug\Suosikkinimet.pdb

@@ -1,0 +1,11 @@
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\10Kysymysta\10Kysymysta\bin\Debug\10Kysymysta.exe.config
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\10Kysymysta\10Kysymysta\bin\Debug\10Kysymysta.exe
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\10Kysymysta\10Kysymysta\bin\Debug\10Kysymysta.pdb
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\10Kysymysta\10Kysymysta\obj\Debug\10Kysymysta.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\10Kysymysta\10Kysymysta\obj\Debug\10Kysymysta.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\10Kysymysta\10Kysymysta\obj\Debug\_10Kysymysta.Vastauslomake.resources
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\10Kysymysta\10Kysymysta\obj\Debug\_10Kysymysta.Properties.Resources.resources
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\10Kysymysta\10Kysymysta\obj\Debug\10Kysymysta.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\10Kysymysta\10Kysymysta\obj\Debug\10Kysymysta.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\10Kysymysta\10Kysymysta\obj\Debug\10Kysymysta.exe
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\10Kysymysta\10Kysymysta\obj\Debug\10Kysymysta.pdb

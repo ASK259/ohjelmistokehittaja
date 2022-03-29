@@ -1,0 +1,11 @@
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Paivakirja\Paivakirja\bin\Debug\Paivakirja.exe.config
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Paivakirja\Paivakirja\bin\Debug\Paivakirja.exe
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Paivakirja\Paivakirja\bin\Debug\Paivakirja.pdb
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Paivakirja\Paivakirja\obj\Debug\Paivakirja.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Paivakirja\Paivakirja\obj\Debug\Paivakirja.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Paivakirja\Paivakirja\obj\Debug\Paivakirja.PaivakirjaF.resources
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Paivakirja\Paivakirja\obj\Debug\Paivakirja.Properties.Resources.resources
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Paivakirja\Paivakirja\obj\Debug\Paivakirja.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Paivakirja\Paivakirja\obj\Debug\Paivakirja.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Paivakirja\Paivakirja\obj\Debug\Paivakirja.exe
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Paivakirja\Paivakirja\obj\Debug\Paivakirja.pdb
