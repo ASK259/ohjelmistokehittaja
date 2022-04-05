@@ -1,0 +1,11 @@
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Sekuntikello\Sekuntikello\bin\Debug\Sekuntikello.exe.config
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Sekuntikello\Sekuntikello\bin\Debug\Sekuntikello.exe
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Sekuntikello\Sekuntikello\bin\Debug\Sekuntikello.pdb
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.SekuntikelloForm.resources
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.Properties.Resources.resources
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.exe
+C:\Users\asus\source\repos\ohjelmistokehittajana_toimiminen\graafinenKayttoliittyma\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.pdb
