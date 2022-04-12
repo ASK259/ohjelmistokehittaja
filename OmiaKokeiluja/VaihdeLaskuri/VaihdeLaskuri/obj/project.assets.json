@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asus\\source\\repos\\ohjelmistokehittajana_toimiminen\\alkuluentoHarjoituksia\\testausEsimerkki\\VaihdeLaskuri\\VaihdeLaskuri\\VaihdeLaskuri.csproj",
+      "projectUniqueName": "C:\\Users\\asus\\source\\repos\\ohjelmistokehittajana_toimiminen\\OmiaKokeiluja\\VaihdeLaskuri\\VaihdeLaskuri\\VaihdeLaskuri.csproj",
       "projectName": "VaihdeLaskuri",
-      "projectPath": "C:\\Users\\asus\\source\\repos\\ohjelmistokehittajana_toimiminen\\alkuluentoHarjoituksia\\testausEsimerkki\\VaihdeLaskuri\\VaihdeLaskuri\\VaihdeLaskuri.csproj",
+      "projectPath": "C:\\Users\\asus\\source\\repos\\ohjelmistokehittajana_toimiminen\\OmiaKokeiluja\\VaihdeLaskuri\\VaihdeLaskuri\\VaihdeLaskuri.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asus\\source\\repos\\ohjelmistokehittajana_toimiminen\\alkuluentoHarjoituksia\\testausEsimerkki\\VaihdeLaskuri\\VaihdeLaskuri\\obj\\",
+      "outputPath": "C:\\Users\\asus\\source\\repos\\ohjelmistokehittajana_toimiminen\\OmiaKokeiluja\\VaihdeLaskuri\\VaihdeLaskuri\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
