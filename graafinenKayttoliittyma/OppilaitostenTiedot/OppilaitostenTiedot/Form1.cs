@@ -10,73 +10,75 @@ using System.Windows.Forms;
 ///@author Antti Kuusisto
 ///version 5.4.2022
 /// <summary>
-/// Pudotusvalikko päivitää toisen pudodotusvalikon tiedot vastaamaan kohdetta.
+/// Pudotusvalikko päivitää toisen pudodotusvalikon tiedot vastaamaan kohdetta. Kommentoitu
 /// </summary>
 
 namespace OppilaitostenTiedot
 {
     public partial class OLaiTiForm : Form
     {
-        DataTable oppilaitos = new DataTable();
-        DataTable vastuuHenkilot = new DataTable();
-        DataTable yhteys = new DataTable();
+        DataTable oppilaitos = new DataTable(); // luodaan uusi DataTable
+        DataTable vastuuHenkilot = new DataTable(); // luodaan uusi DataTable
+        DataTable yhteys = new DataTable(); // luodaan uusi DataTable
         public OLaiTiForm()
         {
             InitializeComponent();
         }
 
-        private void OLaiTiForm_Load(object sender, EventArgs e)
+        private void OLaiTiForm_Load(object sender, EventArgs e) // toiminta, kun ladataan lomake
         {
-            taytaOppilaitosTaulukko();
-            taytaVastuuHenkilot();
-            LaitosCB.DataSource = oppilaitos;
-            LaitosCB.DisplayMember = "ONimi";
+            taytaOppilaitosTaulukko(); // Kutsutaan metodi joka täyttää oppilaitostaulukon
+            taytaVastuuHenkilot(); // Kutsutaan metodi joka täyttää vastuuhenkilöt taulukon
+            LaitosCB.DataSource = oppilaitos; //Laitos combobox:n tietolähde
+            LaitosCB.DisplayMember = "ONimi"; //Laitos combobox näyttää "ONimi" nimisen jäsenen oppilaitos DataTablesta
         }
 
-        private void LaitosCB_SelectedIndexChanged(object sender, EventArgs e)
+        private void LaitosCB_SelectedIndexChanged(object sender, EventArgs e) // toiminta kun muutetaan kyseisessä combobox:ssa olevaa tietoa
         {
-            string viite = oppilaitos.Rows[LaitosCB.SelectedIndex]["OID"].ToString();
-            OsLB.Text = oppilaitos.Rows[LaitosCB.SelectedIndex]["OKatuosoite"].ToString();
+            string viite = oppilaitos.Rows[LaitosCB.SelectedIndex]["OID"].ToString(); // Määritetään tunniste jolla etsitään toimihenkilöt kyseiseen laitokseen
+            OsLB.Text = oppilaitos.Rows[LaitosCB.SelectedIndex]["OKatuosoite"].ToString(); // Valitaan valitun indeksin mukainentieto samalta riviltä
             PnroLB.Text = oppilaitos.Rows[LaitosCB.SelectedIndex]["OPostinumero"].ToString();
             PtoimiLB.Text = oppilaitos.Rows[LaitosCB.SelectedIndex]["Opostitoimipaikka"].ToString();
             PuhLB.Text = oppilaitos.Rows[LaitosCB.SelectedIndex]["OPuhelin"].ToString();
 
-            yhteys = vastuuHenkilot.Select("OID =" + viite).CopyToDataTable();
-            VastuuhenkiloCB.DataSource = yhteys;
-            VastuuhenkiloCB.DisplayMember = "VNimi";
+            yhteys = vastuuHenkilot.Select("OID =" + viite).CopyToDataTable(); // Valitan vastuuhenkilöiden Datatable:sta vastaavalla Id olevat toimihenkilöt
+            VastuuhenkiloCB.DataSource = yhteys; // Valitaan oikeat vastuuhenkilöt
+            VastuuhenkiloCB.DisplayMember = "VNimi"; // Näytetään combobox:ssa vastuuhenkilön nimi
         }
 
-        private void VastuuhenkiloCB_SelectedIndexChanged(object sender, EventArgs e)
+        private void VastuuhenkiloCB_SelectedIndexChanged(object sender, EventArgs e) // toiminta kun muutetaan kyseisessä combobox:ssa olevaa tietoa
         {
-            TitteliLB.Text = yhteys.Rows[VastuuhenkiloCB.SelectedIndex]["VTitteli"].ToString();
+            TitteliLB.Text = yhteys.Rows[VastuuhenkiloCB.SelectedIndex]["VTitteli"].ToString(); // tulostetetaan oikea tieto valitun kohteen riviltä
             SijaintiLB.Text = yhteys.Rows[VastuuhenkiloCB.SelectedIndex]["VSijainti"].ToString();
             EmailLB.Text = yhteys.Rows[VastuuhenkiloCB.SelectedIndex]["VSahkoposti"].ToString();
             PhoneLB.Text = yhteys.Rows[VastuuhenkiloCB.SelectedIndex]["VPuhelin"].ToString();
         }
-        private void taytaOppilaitosTaulukko()
-        {
+        private void taytaOppilaitosTaulukko() // oppilaitos DataTablen täyttö
+        {   
+            //Datatable:n Columns osioon tunniste tiedot
             oppilaitos.Columns.Add("OID",typeof(int));
             oppilaitos.Columns.Add("ONimi");
             oppilaitos.Columns.Add("OKatuosoite");
             oppilaitos.Columns.Add("OPostinumero");
             oppilaitos.Columns.Add("Opostitoimipaikka");
             oppilaitos.Columns.Add("OPuhelin");
-
+            // Datatable:n rows osioon kohteen tiedot
             oppilaitos.Rows.Add(1, "StadinAO", "Hattulantie 2", "00550", "Helsinki", "09 310 8600");
             oppilaitos.Rows.Add(2, "Omnia", "Armas Launiksen katu 9", "02650", "Espoo", "046 877 1371");
             oppilaitos.Rows.Add(3, "Varia", "Rälssitie 13", "01530", "Vantaa", "040 182 4668");
             oppilaitos.Rows.Add(4, "Keuda", "Sibeliuksenväylä 55 A", "04400", "Järvenpää", "09 27 381");
         }
 
-        private void taytaVastuuHenkilot()
+        private void taytaVastuuHenkilot() //Täytetään vastuuhenkilöt DataTable 
         {
+            //Datatable:n Columns osioon tunniste tiedot
             vastuuHenkilot.Columns.Add("OID",typeof(int));
             vastuuHenkilot.Columns.Add("VNimi");
             vastuuHenkilot.Columns.Add("VTitteli");
             vastuuHenkilot.Columns.Add("VSijainti");
             vastuuHenkilot.Columns.Add("VSahkoposti");
             vastuuHenkilot.Columns.Add("VPuhelin");
-
+            // Datatable:n rows osioon kohteen tiedot
             vastuuHenkilot.Rows.Add(1, "Sirpa Lindroos", "Rehtori", "Kampus 1", "sirpa.lindroos@hel.fi", "050 540 4434");
             vastuuHenkilot.Rows.Add(1, "Hanna Laurila", "Rehtori", "Kaupus 2", "hanna.laurila@hel.fi", "040 676 5583");
             vastuuHenkilot.Rows.Add(1, "Annele Ranta", "Rehtori", "Kampus 3", "annele.ranta@hel.fi", "040 631 5667");

@@ -11,13 +11,13 @@ using System.IO;
 ///@author Antti Kuusisto
 ///version 5.4.2022
 /// <summary>
-/// Muistio. Toimiikin vielä
+/// Muistio. Toimiikin vielä. 12.4.22 Pitää vielä kommentoida suht hyvä käsitys siitä mikä tekee mitäkin.
 /// </summary>
 namespace Muistio
 {
     public partial class MuistioForm : Form
     {
-        string tiedostopolku = "";
+        string tiedostopolku = ""; // nimetään muuttuja johon tallennetaan tiedostopolku
         public MuistioForm()
         {
             InitializeComponent();

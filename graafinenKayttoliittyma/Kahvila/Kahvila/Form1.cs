@@ -7,7 +7,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+/// <summary>
+/// Täysin kesken oleva harjoitus, jota ei muistaakseni ole edes vielä annettu tehtäväksi.
+/// </summary>
 namespace Kahvila
 {
     public partial class RuokalistaForm : Form
